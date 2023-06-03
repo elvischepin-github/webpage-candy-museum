@@ -1,0 +1,15 @@
+body {
+  background: #f5d9d5;
+}
+
+#navbar a:hover {
+  color: crimson !important;
+}
+
+.content h2 span {
+  color: crimson;
+}
+
+.content p {
+  color: crimson;
+}
